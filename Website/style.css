@@ -1,0 +1,50 @@
+/* Styles go here */
+
+.header-box{
+	background-color:#000;
+	font-size:20px;
+	padding:1rem;
+	color:#fff;
+	text-align:center;
+}
+.carousel-inner>.item>img{
+	height:200px;
+	margin:0 auto;
+}
+.content-box{
+	margin-top:1rem;
+	margin-bottom:1rem;
+}
+h2{
+	font-size:2rem;
+}
+#top10words{
+	display:flex;
+	justify-content: center;
+    align-items: center;
+}
+.top-records{
+	font-size:14px;
+	
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.submit-btn{
+	background-color: #262626;
+    border-radius: 25px;
+    color: #fff;
+    padding: 3px 23px;
+}
